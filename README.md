@@ -1,6 +1,6 @@
 # comment-filter
 
-![license][https://img.shields.io/github/license/animesh-chouhan/comment-filter.svg]
+![](https://img.shields.io/github/license/animesh-chouhan/comment-filter.svg)
 ![](https://img.shields.io/pypi/pyversions/Django.svg)
 ![](https://img.shields.io/badge/platforms-linux--64-lightgrey.svg)
 

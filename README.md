@@ -12,13 +12,15 @@ Linux:
 
 ```sh
 #clone the repo
-git clone https://github.com/animesh-chouhan/yt-comment-scraper.git
-cd /yt-comment-scraper.git
+git clone https://github.com/animesh-chouhan/comment-filter.git
+cd /comment-filter.git
 
-#install python3
-sudo apt-get install python3
+#install python3, jupyter-notebook
+sudo apt-get install python3 python3-pip
+sudo pip3 install jupyter
 
 #install dependencies
+
 
 
 

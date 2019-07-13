@@ -53,12 +53,12 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Dataset Used
 
-*[YouTube Spam Collection v. 1](http://www.dt.fee.unicamp.br/~tiago//youtubespamcollection/)
+* [YouTube Spam Collection v. 1](http://www.dt.fee.unicamp.br/~tiago//youtubespamcollection/)
 
 
 ## Contributing
 
-1. Fork the repo (<https://github.com/animesh-chouhan/yt-comment-scraper/>)
+1. Fork the repo (<https://github.com/animesh-chouhan/comment-filter/>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

@@ -1,7 +1,0 @@
-hi+!*
-he+l+o+!*
-whatsapp
-call
-price
-discount
-[0-9]{9,15}

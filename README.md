@@ -1,6 +1,6 @@
 # comment-filter
 
-![license][license]
+![license][https://img.shields.io/github/license/animesh-chouhan/comment-filter.svg]
 ![](https://img.shields.io/pypi/pyversions/Django.svg)
 ![](https://img.shields.io/badge/platforms-linux--64-lightgrey.svg)
 
@@ -20,12 +20,10 @@ sudo apt-get install python3 python3-pip
 sudo pip3 install jupyter
 
 #install dependencies
+pip3 install -r requirements.txt
 
-
-
-
-#testing the python scraper
-python3 scraper.py ./to_scrape_sample.txt
+#running the notebook
+jupyter-notebook comment-filter.ipynb
 
 ```
 
@@ -50,9 +48,12 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Built With
 
-* [Puppeteer](https://developers.google.com/web/tools/puppeteer/) - Headless browser to overcome pagination
-* [ytcomments](https://github.com/philbot9/youtube-comment-scraper) - Comment API
+* [profanity-check](https://github.com/vzhou842/profanity-check) - Python library to check for profanity or offensive language
+* [VADER-Sentiment-Analysis](https://github.com/cjhutto/vaderSentiment) - lexicon and rule-based sentiment analysis tool
 
+## Dataset Used
+
+*[YouTube Spam Collection v. 1](http://www.dt.fee.unicamp.br/~tiago//youtubespamcollection/)
 
 
 ## Contributing
@@ -64,9 +65,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[license]: https://img.shields.io/github/license/animesh-chouhan/yt-comment-scraper.svg?style=plastic
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg
-[npm-url]: https://npmjs.org/package/datadog-metrics
 [wiki]: https://github.com/animesh-chouhan/yt-comment-scraper//wiki
 
 ## License

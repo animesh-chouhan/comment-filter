@@ -33,13 +33,13 @@ jupyter-notebook comment-filter.ipynb
 Sample resonse of api hosted on localhost:
 
 <p align="center">
-  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-response-alt.png" width="700" align="center"/>
+  <img src=" " width="700" align="center"/>
 </p>
 
 Sample comments scraped:
 
 <p align="center">
-  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-csv.png"  width="700" align="center"/>
+  <img src=" "  width="700" align="center"/>
 </p>
 
 
@@ -49,7 +49,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ## Built With
 
 * [profanity-check](https://github.com/vzhou842/profanity-check) - Python library to check for profanity or offensive language
-* [VADER-Sentiment-Analysis](https://github.com/cjhutto/vaderSentiment) - lexicon and rule-based sentiment analysis tool
+* [VADER-Sentiment-Analysis](https://github.com/cjhutto/vaderSentiment) - Lexicon and rule-based sentiment analysis tool
 
 ## Dataset Used
 

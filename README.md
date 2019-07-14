@@ -30,13 +30,13 @@ jupyter-notebook comment-filter.ipynb
 
 ## Usage example
 
-Sample resonse of api hosted on localhost:
+Desc:
 
 <p align="center">
   <img src=" " width="700" align="center"/>
 </p>
 
-Sample comments scraped:
+Desc:
 
 <p align="center">
   <img src=" "  width="700" align="center"/>

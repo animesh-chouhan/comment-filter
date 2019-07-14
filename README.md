@@ -54,7 +54,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ## Dataset Used
 
 * [YouTube Spam Collection v. 1](http://www.dt.fee.unicamp.br/~tiago//youtubespamcollection/)
-
+* [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
 ## Contributing
 

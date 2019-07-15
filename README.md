@@ -4,7 +4,8 @@
 ![](https://img.shields.io/pypi/pyversions/Django.svg)
 ![](https://img.shields.io/badge/platforms-linux--64-lightgrey.svg)
 
->Description
+> Python script to filter and flag user comments
+> Dictionary based filter to flag profanity, spamming and offensive content
 
 ## Setup
 

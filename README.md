@@ -29,24 +29,6 @@ jupyter-notebook comment-filter.ipynb
 ```
 
 
-## Usage example
-
-Desc:
-
-<p align="center">
-  <img src=" " width="700" align="center"/>
-</p>
-
-Desc:
-
-<p align="center">
-  <img src=" "  width="700" align="center"/>
-</p>
-
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-
 ## Built With
 
 * [profanity-check](https://github.com/vzhou842/profanity-check) - Python library to check for profanity or offensive language
